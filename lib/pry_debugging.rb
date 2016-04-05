@@ -5,3 +5,6 @@ def plus_two(num)
   binding.pry
 end
 
+def meal_choice (choice = "meat")
+  return choice
+end
