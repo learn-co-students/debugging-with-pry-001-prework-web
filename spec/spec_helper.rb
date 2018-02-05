@@ -1,1 +1,2 @@
-require_relative './lib/pry_debugging.rb'
+require './lib/pry_debugging.rb'
+
