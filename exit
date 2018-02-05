@@ -1,0 +1,11 @@
+
+[1mFrom:[0m /home/nitrous/code/labs/debugging-with-pry-001-prework-web/lib/pry_debugging.rb @ line 6 Object#plus_two:
+
+    [1;34m1[0m: require [31m[1;31m'[0m[31mpry[1;31m'[0m[31m[0m
+    [1;34m2[0m: 
+    [1;34m3[0m: [32mdef[0m [1;34mplus_two[0m(num)
+    [1;34m4[0m: 	num + [1;34m2[0m
+    [1;34m5[0m: [32mend[0m
+ => [1;34m6[0m: 
+    [1;34m7[0m: plus_two([1;34m3[0m)
+
